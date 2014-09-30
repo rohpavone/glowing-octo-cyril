@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<matches>
+  <match>
+    <score>
+      <playername>aggro</playername>
+      <value>15</value>
+    </score>
+    <score>
+      <playername>space</playername>
+      <value>1058</value>
+    </score>
+  </match>
+</matches>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<matches>
+  <match>
+    <score>
+      <playername>bob</playername>
+      <value>1803</value>
+    </score>
+    <score>
+      <playername>bobette</playername>
+      <value>186</value>
+    </score>
+  </match>
+</matches>

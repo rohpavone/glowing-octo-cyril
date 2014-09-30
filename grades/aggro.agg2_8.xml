@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<matches>
+  <match>
+    <score>
+      <playername>agg2</playername>
+      <value>128</value>
+    </score>
+    <score>
+      <playername>aggro</playername>
+      <value>1349</value>
+    </score>
+  </match>
+</matches>
